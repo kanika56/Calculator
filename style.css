@@ -1,0 +1,25 @@
+body {
+  background-color: #758e91;
+}
+.content {
+  text-align: center;
+  margin-top: 100px;
+}
+table {
+  margin: auto;
+}
+input {
+  border: 5px solid;
+  border-radius: 10px;
+  font-size: 25px;
+  height: 45px;
+  width: 550px;
+}
+button {
+  font-size: 25px;
+  border-radius: 10px;
+  background-color: #bdb0ac;
+  height: 45px;
+  width: 90px;
+
+}
